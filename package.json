@@ -1,0 +1,22 @@
+{
+  "name": "redis-learning",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ngthminhdev/redis-learn.git"
+  },
+  "author": "mynhDev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ngthminhdev/redis-learn/issues"
+  },
+  "homepage": "https://github.com/ngthminhdev/redis-learn#readme",
+  "dependencies": {
+    "redis": "^3.1.2"
+  }
+}
